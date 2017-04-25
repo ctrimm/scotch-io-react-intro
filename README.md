@@ -7,7 +7,7 @@ This is the companion code for the Beginner React series on the [Scotch School](
 Clone the project, install the dependencies, and run the project.
 
 ```
-git clone https://github.com/ctrimm/scotch-io-react-intro
+git clone https://github.com/ctrimm/scotch-io-react-intro.git
 cd react-weather-app
 yarn
 yarn start
